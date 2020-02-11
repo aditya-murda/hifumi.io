@@ -4,7 +4,7 @@ image: "./media/aoba.png"
 thumbnail: "./media/aoba-thumbnail.png"
 name: Suzukaze Aoba
 japanese: 涼風 青葉
-quote: "Kyou mo ichinichi GABARUZOI!"
+quote: "Kyou mo ichinichi GANBARUZOI!"
 color: "#c6b6fb"
 role: "Character Designer"
 strengths:
